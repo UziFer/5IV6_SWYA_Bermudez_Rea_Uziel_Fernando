@@ -1,0 +1,30 @@
+/* Estilo del cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo de la lista no ordenada */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Estilo de los elementos de lista */
+  li {
+    margin: 10px 0;
+  }
+  
+  /* Estilo de los enlaces dentro de los elementos de lista */
+  li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  li a:hover {
+    color: #ff6600; /* Cambiar el color al pasar el mouse sobre los enlaces */
+  }
